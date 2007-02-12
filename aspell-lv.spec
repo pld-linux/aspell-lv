@@ -1,5 +1,5 @@
 Summary:	Latvian dictionary for aspell
-Summary(pl.UTF-8):   Słownik łotewski dla aspella
+Summary(pl.UTF-8):	Słownik łotewski dla aspella
 Name:		aspell-lv
 Version:	0.5.5
 %define	subv	1
