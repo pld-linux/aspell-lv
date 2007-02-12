@@ -1,5 +1,5 @@
 Summary:	Latvian dictionary for aspell
-Summary(pl):	S³ownik ³otewski dla aspella
+Summary(pl.UTF-8):   SÅ‚ownik Å‚otewski dla aspella
 Name:		aspell-lv
 Version:	0.5.5
 %define	subv	1
@@ -17,8 +17,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Latvian dictionary (i.e. word list) for aspell.
 
-%description -l pl
-S³ownik ³otewski (lista s³ów) dla aspella.
+%description -l pl.UTF-8
+SÅ‚ownik Å‚otewski (lista sÅ‚Ã³w) dla aspella.
 
 %prep
 %setup -q -n aspell6-lv-%{version}-%{subv}
