@@ -3,7 +3,7 @@ Summary(pl.UTF-8):	Słownik łotewski dla aspella
 Name:		aspell-lv
 Version:	0.5.5
 %define	subv	1
-Release:	1
+Release:	2
 Epoch:		1
 License:	GPL v2+
 Group:		Applications/Text
